@@ -1,4 +1,6 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Single Assign Demo
+=========================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+How to define a `SingleAssign` delegate property.
+
+Run `Hello.kt` in your IDE.
